@@ -1,0 +1,72 @@
+---------------------------------------------------------------------------------- 
+Application Request Response log Info File.(c)Copyright 2023 TNK Technologies 
+This File was Generated for Developers Purposes, Please DO NOT DELETE! 
+Log Generated On : 5/26/2023 11:43:58 AM
+---------------------------------------------------------------------------------- 
+Date & time - 5/26/2023 11:43:58 AM
+Description - Create a user in Application
+User Email - string@gmail.com
+Result     - 1
+Response    - User create successfull
+------------------------------------------------------------------------------- end 
+
+---------------------------------------------------------------------------------- 
+CWT Request Response log Info File.(c)Copyright 2022 EPIC Lanka Technologies 
+This File was Generated for Developers Purposes, Please DO NOT DELETE! 
+Log Generated On : 5/26/2023 11:52:27 AM
+---------------------------------------------------------------------------------- 
+Date & time - 5/26/2023 11:52:27 AM
+Description - Create a user in Application
+User Email - sadun@gmail.com
+Result     - 1
+Response    - User create successfull
+------------------------------------------------------------------------------- end 
+
+---------------------------------------------------------------------------------- 
+CWT Request Response log Info File.(c)Copyright 2022 EPIC Lanka Technologies 
+This File was Generated for Developers Purposes, Please DO NOT DELETE! 
+Log Generated On : 5/26/2023 12:46:49 PM
+---------------------------------------------------------------------------------- 
+Date & time - 5/26/2023 12:46:49 PM
+Description - Create a user in Application
+User Email - A
+Result     - 1
+Response    - User create successfull
+------------------------------------------------------------------------------- end 
+
+---------------------------------------------------------------------------------- 
+CWT Request Response log Info File.(c)Copyright 2022 EPIC Lanka Technologies 
+This File was Generated for Developers Purposes, Please DO NOT DELETE! 
+Log Generated On : 5/26/2023 12:46:54 PM
+---------------------------------------------------------------------------------- 
+Date & time - 5/26/2023 12:46:54 PM
+Description - Create a user in Application
+User Email - A
+Result     - 8
+Response    - The user is already exists
+------------------------------------------------------------------------------- end 
+
+---------------------------------------------------------------------------------- 
+CWT Request Response log Info File.(c)Copyright 2022 EPIC Lanka Technologies 
+This File was Generated for Developers Purposes, Please DO NOT DELETE! 
+Log Generated On : 5/26/2023 12:47:33 PM
+---------------------------------------------------------------------------------- 
+Date & time - 5/26/2023 12:47:33 PM
+Description - Create a user in Application
+User Email - A
+Result     - 8
+Response    - The user is already exists
+------------------------------------------------------------------------------- end 
+
+---------------------------------------------------------------------------------- 
+CWT Request Response log Info File.(c)Copyright 2022 EPIC Lanka Technologies 
+This File was Generated for Developers Purposes, Please DO NOT DELETE! 
+Log Generated On : 5/26/2023 1:06:14 PM
+---------------------------------------------------------------------------------- 
+Date & time - 5/26/2023 1:06:14 PM
+Description - Create a user in Application
+User Email - 
+Result     - -1
+Response    - User Service name and email and password can not be empty
+------------------------------------------------------------------------------- end 
+
